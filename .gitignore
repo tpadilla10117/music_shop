@@ -1,0 +1,15 @@
+.vscode
+.DS_Store
+node_modules
+build
+.env
+
+#This allows our Git repositories to ignore files we choose
+
+#.env lets us:
+
+#keep configuration secret - can do this via keys
+#keys are access points
+
+#predetermined values that are used to provide the ability to configure a value in your code from outside of your app
+#different config for diff environments

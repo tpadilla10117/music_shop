@@ -80,11 +80,6 @@ async function createInitialUsers() {
 
 }
 
-
-
-
-
-
 async function rebuildDB() {
   try {
     //connect the client to the database

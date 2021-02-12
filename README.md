@@ -3,6 +3,13 @@
 
     npm init -y
 
+// To initialize git repo:
+
+    git init
+    git add .
+    git commit -m "first commit"
+    git remote add origin https://github.com/YOUR_USER_NAME/juicebox.git
+    git push -u origin master
 
 // Need to install express
 npm install express

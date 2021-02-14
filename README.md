@@ -1,3 +1,4 @@
+// Prospective Employers:  WORK IN PROGRESS!!! Follow my commits to keep updated!
 
 //Starting a node package (project) with npm init -y
 
